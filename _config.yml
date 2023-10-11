@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  GitHub: https://github.com/rippleytrigger
+  GitLab: https://gitlab.com/rippleytrigger
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/rippleytrigger/
+  Twitter: https://twitter.com/Rippleytrigger
   Facebook:
   Slack:
 
@@ -42,3 +42,6 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+# To Allow Post Categories
+permalink: /:categories/:title
